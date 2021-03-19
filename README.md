@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## See in action
+## See in action 🔥🚀
 https://festive-lalande-5f65e1.netlify.app/
 
 ## Available Scripts
